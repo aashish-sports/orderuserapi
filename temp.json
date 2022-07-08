@@ -1,0 +1,64 @@
+[
+    {
+        "user_id":78,
+        "orders" : [
+            {
+                "product_name":"black T-shirt",
+                "price": 100,
+                "qty":40
+            },
+             {
+
+                "product_name":"white jeans",
+                "price": 1800,
+                   "qty":40
+            }
+        ]
+    } ,
+    {
+        "user_id": 453,
+        "orders" : [
+            {
+                "product_name":"black T-shirt",
+                "price": 100,
+                "qty":40
+            },
+             {
+                "product_name":"white jeans",
+                "price": 1800,
+                "qty":58
+            }
+        ]
+    } ,
+     {
+        "user_id":67,
+        "orders" : [
+            {
+                "product_name":"black T-shirt",
+                "price": 100,
+                "qty":40
+            },
+             {
+
+                "product_name":"white jeans",
+                "price": 1800,
+                   "qty":40
+            }
+        ]
+    } ,
+    {
+        "user_id": 453,
+        "orders" : [
+            {
+                "product_name":"black T-shirt",
+                "price": 100,
+                "qty":40
+            },
+             {
+                "product_name":"white jeans",
+                "price": 1800,
+                "qty":58
+            }
+        ]
+    } 
+]
